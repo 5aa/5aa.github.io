@@ -1,7 +1,6 @@
 ---
 date: 2020-04-07
 title: 'Lorem ipsum dolor sit'
-slug: lorem-ipsum-dolor-sit
 tags:
   - tag1
   - tag2
