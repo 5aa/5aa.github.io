@@ -1,17 +1,9 @@
 import { Link } from 'gatsby'
 import React from 'react'
-import { useStaticQuery, graphql } from 'gatsby'
+import useSiteMetadata from '../../hooks/use-site-metadata'
 
 const Header = () => {
-  const data = useStaticQuery(graphql`
-    query HeaderQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `)
+  const { title } = useSiteMetadata()
 
   return (
     <header
@@ -35,7 +27,7 @@ const Header = () => {
               textDecoration: `none`,
             }}
           >
-            {data.site.siteMetadata.title}
+            {title}
           </Link>
         </h1>
       </div>
