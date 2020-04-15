@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `5aa`,
-    description: `Software Engineer`,
-    author: `@5aa`,
+    description: `Personal Website`,
+    author: `5aa`,
     site_url: `5aa.dev`,
   },
   plugins: [
@@ -28,6 +28,8 @@ module.exports = {
         path: `${__dirname}/src/content/blog`,
       },
     },
+    `gatsby-transformer-javascript-frontmatter`,
+    `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
