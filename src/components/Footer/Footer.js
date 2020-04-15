@@ -1,15 +1,24 @@
 //import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
+import { useStaticQuery, graphql } from 'gatsby'
 
-const Footer = ({ siteTitle }) => (
-  <footer>
-    © {new Date().getFullYear()}, Built by {siteTitle}
-  </footer>
-)
+const Footer = ({ siteTitle }) => {
+  const data = useStaticQuery(graphql`
+    query FooterQuery {
+      site {
+        siteMetadata {
+          title
+        }
+      }
+    }
+  `)
 
-Footer.propTypes = {
-  siteTitle: PropTypes.string,
+  return (
+    <footer>
+      © {new Date().getFullYear()}, Built by {data.site.siteMetadata.title}
+    </footer>
+  )
 }
 
 export default Footer
