@@ -14,6 +14,7 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    `gatsby-transformer-json`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -21,6 +22,7 @@ module.exports = {
         path: `${__dirname}/src/content/data`,
       },
     },
+   `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -28,15 +30,13 @@ module.exports = {
         path: `${__dirname}/src/content/blog`,
       },
     },
-    `gatsby-transformer-javascript-frontmatter`,
-    `gatsby-transformer-remark`,
-    `gatsby-transformer-sharp`,
+   `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Website`,
+        short_name: `Website`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,

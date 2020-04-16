@@ -1,10 +1,10 @@
 import React from 'react'
-import { Link } from 'gatsby'
-
+//import { Link } from 'gatsby'
 //import Image from '../components/image'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import ProjectSection from '../components/ProjectSection'
+import BlogSection from '../components/BlogSection'
 
 const IndexPage = () => (
   <Layout>
@@ -19,6 +19,7 @@ const IndexPage = () => (
     //<Link to='/'>Go Home</Link>
     */}
     <ProjectSection />
+    <BlogSection />
   </Layout>
 )
 
