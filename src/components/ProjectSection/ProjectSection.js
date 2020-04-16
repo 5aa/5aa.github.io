@@ -1,17 +1,17 @@
 import React from 'react'
-import useProjects from '../../hooks/use-projects'
+import useProjectMetadata from '../../hooks/use-project-metadata'
 import Project from './components/Project'
 
 const ProjectSection = () => {
-	const projects = useProjects()
+	const projects = useProjectMetadata()
   
   return (
     <div>
       <h1>Portfolio</h1>
       <p>Here are some projects.</p>
       <div>
-        {projects.map(p => (
-          <Project {...p} key={p.title} />
+        {projects.map(({ node }) => (
+          <Project {...node} key={node.id} />
         ))}
       </div>
     </div>
