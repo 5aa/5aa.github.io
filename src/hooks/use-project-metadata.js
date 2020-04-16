@@ -15,7 +15,7 @@ const useProjectMetadata = () => {
       }
     }
   `)
-	return allProjectsJson.edges
+  return allProjectsJson.edges
 }
 
 export default useProjectMetadata

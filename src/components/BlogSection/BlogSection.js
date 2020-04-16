@@ -11,11 +11,11 @@ const BlogSection = () => {
       <p>This is my blog.</p>
       <div>
         {posts.map(({ node }) => (
-          <BlogEntry 
-            title={node.frontmatter.title} 
-            date={node.frontmatter.date} 
-            link={node.fields.slug} 
-            key={node.id} 
+          <BlogEntry
+            title={node.frontmatter.title}
+            date={node.frontmatter.date}
+            link={node.fields.slug}
+            key={node.id}
           />
         ))}
       </div>

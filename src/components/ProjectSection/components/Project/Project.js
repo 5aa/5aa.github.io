@@ -10,9 +10,9 @@ const Project = ({ title, description, source }) => {
 }
 
 Project.propTypes = {
-  title: PropTypes.string, 
-  description: PropTypes.string, 
-  source: PropTypes.string, 
+  title: PropTypes.string,
+  description: PropTypes.string,
+  source: PropTypes.string,
 }
 
 export default Project

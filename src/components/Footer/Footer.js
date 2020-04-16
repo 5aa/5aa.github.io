@@ -3,7 +3,7 @@ import React from 'react'
 import useSiteMetadata from '../../hooks/use-site-metadata'
 
 const Footer = () => {
-  const { title } = useSiteMetadata();
+  const { title } = useSiteMetadata()
 
   return (
     <footer>

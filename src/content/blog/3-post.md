@@ -31,7 +31,7 @@ cara](http://nec.io/comitant), suum, deam omnes.
 ## Grave Babylonia
 
 A seu occidat Seriphi, et ter magna, quod dabat, terrae erat rates se lentum.
-Sanguinis tenuique. Erat nota cruori, cervice *licet vulnera* satiata iudice
+Sanguinis tenuique. Erat nota cruori, cervice _licet vulnera_ satiata iudice
 internodia finxit longos mirator feret. Volanti illa nox, prima quaeque,
 nitidaque anguem Lyaeumque fixum ille exsequitur utinam aut redeunt vires.
 

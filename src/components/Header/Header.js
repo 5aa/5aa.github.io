@@ -21,7 +21,7 @@ const Header = () => {
       >
         <h1 style={{ margin: 0 }}>
           <Link
-            to='/'
+            to="/"
             style={{
               color: `black`,
               textDecoration: `none`,
@@ -32,10 +32,10 @@ const Header = () => {
         </h1>
       </div>
       <div>
-        <Link to='/'>Home</Link>
+        <Link to="/">Home</Link>
       </div>
       <div>
-        <Link to='/about'>About</Link>
+        <Link to="/about">About</Link>
       </div>
     </header>
   )

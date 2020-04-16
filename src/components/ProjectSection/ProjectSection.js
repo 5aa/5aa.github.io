@@ -3,8 +3,8 @@ import useProjectMetadata from '../../hooks/use-project-metadata'
 import Project from './components/Project'
 
 const ProjectSection = () => {
-	const projects = useProjectMetadata()
-  
+  const projects = useProjectMetadata()
+
   return (
     <div>
       <h1>Portfolio</h1>

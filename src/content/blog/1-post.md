@@ -15,7 +15,7 @@ Unde. Flamma pensa partu, Noctisque rutilum ducit suis finxit Acheloiadumque
 sanguine [sororis](http://manu.org/). Quoque illi munus gratissima memorant at
 sidera venire exorabilis socium meorum **grandaevumque manus** in. Caput
 percussit exempla erant. Saucia sub, signaque grave, alto cura, ora formosus,
-virorum *figuram*.
+virorum _figuram_.
 
 ## Quo spumis poscit
 
@@ -23,7 +23,7 @@ Habes nec est humilesque vocat Inachis meae: qui in cum montibus. Conatur
 Lapitheia quidem: sucis quae reliquit iusta resupinoque ad abundet moverat
 [spectat](http://www.mihiratis.net/alemone.html) quoque riguisse venerat saxis.
 Cedit sine similemque undas, fallit trita adsuetaque nostro firmat perlucidus
-quid bracchia, *colorem mittit*.
+quid bracchia, _colorem mittit_.
 
 Quotiensque nec magna, in cumque [aliae](http://pro-saxa.com/mora); virgo in
 adversum dubiae grave domus: iactavit. Utero in et omnia flammis Troiane

@@ -13,8 +13,8 @@ const BlogEntry = ({ title, date, link }) => {
 }
 
 BlogEntry.propTypes = {
-  title: PropTypes.string, 
-  date: PropTypes.string, 
+  title: PropTypes.string,
+  date: PropTypes.string,
 }
 
 export default BlogEntry

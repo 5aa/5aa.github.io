@@ -10,7 +10,7 @@ tags:
 
 ## Urbes maior filia pectore
 
-Lorem markdownum se sede aquis et absunt videt virginibus nefandam *culpa in*
+Lorem markdownum se sede aquis et absunt videt virginibus nefandam _culpa in_
 aurea quod; nunc. Nescit in quoque Iove victa trahatur dira caespes loquentem
 aevum dextraque refer iusserat iunctissima raptis altera lacrimas!
 
@@ -49,7 +49,7 @@ aequore visum!
 5. Maeoniaeque adhuc
 6. Praeside est minaces Stygii ad haud Graias
 
-Dant arat gemmas, *Semeles ars* suo tellure [inque](http://brevis.org/ex.aspx),
+Dant arat gemmas, _Semeles ars_ suo tellure [inque](http://brevis.org/ex.aspx),
 pars, audiet Iunonem viris. Dubie rarissima montibus vulnerat similis mori et
 erat Troiana pocula! Et bis vix repugnat harenae Telethusa Troiae.
 
