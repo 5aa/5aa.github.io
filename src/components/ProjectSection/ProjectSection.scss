@@ -1,0 +1,11 @@
+@import '../../styles/main';
+
+.portfolio-container {
+  padding-bottom: 6rem;
+
+  h1.portfolio-title {
+    margin: 0;
+    font-family: $fontStack1;
+    font-size: 3.5rem;
+  }
+}

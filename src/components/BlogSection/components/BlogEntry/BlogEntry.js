@@ -1,13 +1,18 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
+import './BlogEntry.scss'
 
 const BlogEntry = ({ title, date, link }) => {
   return (
-    <div>
-      <a href={link}>
-        <div>{title}</div>
-      </a>
-      <div>{date}</div>
+    <div
+      class='blog-post'
+      data-aos='fade-up'
+      data-aos-easing='ease-out-quad'
+      data-aos-duration='800'
+    >
+      <Link to={link}>{title}</Link>
+      <div class='date'>Published {date}</div>
     </div>
   )
 }

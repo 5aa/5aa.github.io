@@ -1,0 +1,27 @@
+@import 'font';
+
+// Variables
+
+$colorTextHeader: #000;
+$colorTextBody: #333;
+$colorDate: #666;
+$colorLink: #1c93d2;
+$selected: #b9e7ff;
+
+$fontStack1: 'Crimson Text', Georgia, Times New Roman, serif;
+$fontStack2: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+
+// Global
+
+html {
+  // fix jumping scrollbar
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+  transition: color 0.5s ease-out;
+}

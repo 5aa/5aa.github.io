@@ -1,0 +1,23 @@
+@import '../../../../styles/main';
+
+.project-wrapper {
+  padding-top: 2.6rem;
+
+  a {
+    font-size: 1.8rem;
+    font-weight: 700;
+    font-family: $fontStack1;
+    color: $colorTextHeader;
+    &:hover {
+      color: $colorLink;
+    }
+  }
+
+  .project-description {
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: $fontStack2;
+    padding-top: 0.5rem;
+    color: $colorDate;
+  }
+}

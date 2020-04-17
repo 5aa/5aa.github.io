@@ -1,0 +1,28 @@
+@import '../../styles/main';
+
+.header {
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 6rem;
+
+  .logo a {
+    color: $colorTextHeader;
+    font-family: $fontStack2;
+    font-weight: 600;
+  }
+
+  .main-nav {
+    float: right;
+    a {
+      color: $colorLink;
+      font-family: $fontStack2;
+      font-size: 1.2rem;
+      padding-left: 2rem;
+      &:hover {
+        color: $colorTextHeader;
+      }
+    }
+  }
+}
