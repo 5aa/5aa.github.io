@@ -6,10 +6,10 @@ node_js:
 cache:
   directories:
     - node_modules
+script:
+  - npm install && npm run deploy
 deploy:
   provider: pages
-  script: npm install && npm run deploy
-  skip_cleanup: true
   github_token: $GITHUB_TOKEN
   local_dir: public
   on:
