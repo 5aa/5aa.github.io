@@ -1,6 +1,6 @@
 language: node_js
 before_script:
-  - npm install gatsby
+  - npm install -g gatsby
 node_js:
   - "stable"
 cache:
@@ -11,6 +11,7 @@ deploy:
   script: npm install && npm run deploy
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
+  local_dir: public
   keep_history: true
   on:
     branch: master
