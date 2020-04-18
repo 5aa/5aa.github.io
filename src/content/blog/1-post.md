@@ -46,13 +46,13 @@ ossa lapsu ex nomina dissiluit quisque. Regna quorum, caelumque Echion adimunt
 iuvenes, cumba nate, **homini**.
 
 ```
-    prompt += bootMinimizeCamera;
-    if (internal_resources_agp == 2) {
-        host_heat_exabyte.rawLaserMedia /= mirrored_extension_access;
-        ntfsThroughput = golden;
-    }
-    san += pcb + meta_word - nic_mac_infringement;
-    capacityTabletPetabyte = compile_screenshot_flash;
+prompt += bootMinimizeCamera;
+if (internal_resources_agp == 2) {
+    host_heat_exabyte.rawLaserMedia /= mirrored_extension_access;
+    ntfsThroughput = golden;
+}
+san += pcb + meta_word - nic_mac_infringement;
+capacityTabletPetabyte = compile_screenshot_flash;
 ```
 
 Labant ut Achille iuxta reparare excutit paelex oculos, quae depositoque

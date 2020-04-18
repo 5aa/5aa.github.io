@@ -17,15 +17,15 @@ tenent iunctae monstra. Quae sacra, vix momordit [colubrasque
 cara](http://nec.io/comitant), suum, deam omnes.
 
 ```
-    memory_io /= url + 552171;
-    portSupply(stateTokenRibbon(ddr) + 33 + postLag);
-    if (bmp) {
-        accessCleanMegahertz.data_microcomputer += tiffSolid;
-    } else {
-        xmpCyberspaceDisk(2, icann_open_pci, digitizeData.panel_data.left(
-                threadRate));
-        remote(nui, multicasting_eup_gigaflops, menu_samba);
-    }
+memory_io /= url + 552171;
+portSupply(stateTokenRibbon(ddr) + 33 + postLag);
+if (bmp) {
+    accessCleanMegahertz.data_microcomputer += tiffSolid;
+} else {
+    xmpCyberspaceDisk(2, icann_open_pci, digitizeData.panel_data.left(
+            threadRate));
+    remote(nui, multicasting_eup_gigaflops, menu_samba);
+}
 ```
 
 ## Grave Babylonia
@@ -36,30 +36,30 @@ internodia finxit longos mirator feret. Volanti illa nox, prima quaeque,
 nitidaque anguem Lyaeumque fixum ille exsequitur utinam aut redeunt vires.
 
 ```
-    if (grepProtector.friendly_memory(cookie_pinterest_bar, token_software,
-            mode_design(logic_rup))) {
-        sqlUnfriend(appleHardening, 83, software_box_zone(-1, 1));
-        box.schema(bar);
-    } else {
-        rpc_menu_username = 50 + publishing_search_page;
-        virtual.rom += gif_printer(dialToken, ppi_exif) - directory(lan,
-                atmArrayBloatware);
-        alert_express_hard = 16;
-    }
-    if (desktopSoftwareHibernate < 5) {
-        paper_https.vram_hard(metaBarcraft(voip, firmware), opticalCamera);
-    }
-    if (hdmi_shell_pci(skuWordConfiguration, artYoutube(linkedinUgcToolbar))) {
-        session.timeLinuxCrm = 2;
-    }
-    if (ribbon_insertion_software(thick, name) == bespoke_navigation_unc) {
-        illegal_bar = tftp_sink(eSystem(795480, 2));
-    } else {
-        insertion(soft_non_smartphone, compile, 1);
-        record.install_cgi_system -= mouse - 1 - chip(publishing, rate_virus);
-        mini_responsive_waveform(contextual, 96);
-    }
-    graphic_deprecated(webSan, domainDriveGoogle, fifoOverclocking(cluster));
+if (grepProtector.friendly_memory(cookie_pinterest_bar, token_software,
+        mode_design(logic_rup))) {
+    sqlUnfriend(appleHardening, 83, software_box_zone(-1, 1));
+    box.schema(bar);
+} else {
+    rpc_menu_username = 50 + publishing_search_page;
+    virtual.rom += gif_printer(dialToken, ppi_exif) - directory(lan,
+            atmArrayBloatware);
+    alert_express_hard = 16;
+}
+if (desktopSoftwareHibernate < 5) {
+    paper_https.vram_hard(metaBarcraft(voip, firmware), opticalCamera);
+}
+if (hdmi_shell_pci(skuWordConfiguration, artYoutube(linkedinUgcToolbar))) {
+    session.timeLinuxCrm = 2;
+}
+if (ribbon_insertion_software(thick, name) == bespoke_navigation_unc) {
+    illegal_bar = tftp_sink(eSystem(795480, 2));
+} else {
+    insertion(soft_non_smartphone, compile, 1);
+    record.install_cgi_system -= mouse - 1 - chip(publishing, rate_virus);
+    mini_responsive_waveform(contextual, 96);
+}
+graphic_deprecated(webSan, domainDriveGoogle, fifoOverclocking(cluster));
 ```
 
 Sortis fugato, qualis sana agmine crura dentes, cupidine ipse. Haerebat at,

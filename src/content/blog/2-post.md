@@ -23,17 +23,17 @@ Et dextra flumina repagula fruges novi! Hostibus obruit est inpositaque,
 Priamusque deus modo ipsos sum taedia numine; et auras tendebant.
 
 ```
-    lion_duplex /= software;
-    html.website_mac -= edutainment_memory_pack;
-    text_sync_character = image_speakers(system_pipeline + frameworkDrivePup(
-            start, 3, 4), 212539);
-    if (enterprise(4)) {
-        scrapingEbookWhite = 1;
-    } else {
-        olap_balance_power += hocSerial(api, excel, heuristic + 1);
-    }
-    var compressionSnmpListserv = half_import - w_debugger_wireless +
-            menuPseudocodeArp(search);
+lion_duplex /= software;
+html.website_mac -= edutainment_memory_pack;
+text_sync_character = image_speakers(system_pipeline + frameworkDrivePup(
+        start, 3, 4), 212539);
+if (enterprise(4)) {
+    scrapingEbookWhite = 1;
+} else {
+    olap_balance_power += hocSerial(api, excel, heuristic + 1);
+}
+var compressionSnmpListserv = half_import - w_debugger_wireless +
+        menuPseudocodeArp(search);
 ```
 
 ## Urbis nullo vulgat pulvere ut exhalantes clamat
