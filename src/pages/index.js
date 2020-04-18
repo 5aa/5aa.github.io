@@ -6,7 +6,7 @@ import BlogSection from '../components/BlogSection'
 
 const IndexPage = () => (
   <Layout>
-    <SEO title='Home' />
+    <SEO title="Home" />
     <ProjectSection />
     <BlogSection />
   </Layout>

@@ -7,8 +7,8 @@ const Footer = () => {
   const { title } = useSiteMetadata()
 
   return (
-    <footer class='footer'>
-      © {new Date().getFullYear()} <Link to='/'>{title}</Link>
+    <footer class="footer">
+      © {new Date().getFullYear()} <Link to="/">{title}</Link>
     </footer>
   )
 }

@@ -18,11 +18,12 @@ const AboutImage = () => {
 
   return (
     <div
-      class='about-image'
-      data-aos='fade-right'
-      data-aos-easing='ease-out-quad'
-      data-aos-duration='500'
-      data-aos-delay='300'>
+      class="about-image"
+      data-aos="fade-right"
+      data-aos-easing="ease-out-quad"
+      data-aos-duration="500"
+      data-aos-delay="300"
+    >
       <Img fluid={data.aboutImage.childImageSharp.fluid} />
     </div>
   )

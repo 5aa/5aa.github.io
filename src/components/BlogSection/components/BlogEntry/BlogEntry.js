@@ -6,13 +6,13 @@ import './BlogEntry.scss'
 const BlogEntry = ({ title, date, link }) => {
   return (
     <div
-      class='blog-post'
-      data-aos='fade-up'
-      data-aos-easing='ease-out-quad'
-      data-aos-duration='800'
+      class="blog-post"
+      data-aos="fade-up"
+      data-aos-easing="ease-out-quad"
+      data-aos-duration="800"
     >
       <Link to={link}>{title}</Link>
-      <div class='date'>Published {date}</div>
+      <div class="date">Published {date}</div>
     </div>
   )
 }

@@ -7,12 +7,15 @@ const BlogSection = () => {
   const posts = useBlogMetadata()
 
   return (
-    <div class='blog-container'>
-      <h1 
-        class='blog-title'
-        data-aos='fade-up' 
-        data-aos-easing='ease-out-quad'
-        data-aos-duration='800'>Blog</h1>
+    <div class="blog-container">
+      <h1
+        class="blog-title"
+        data-aos="fade-up"
+        data-aos-easing="ease-out-quad"
+        data-aos-duration="800"
+      >
+        Blog
+      </h1>
       <>
         {posts.map(({ node }) => (
           <BlogEntry

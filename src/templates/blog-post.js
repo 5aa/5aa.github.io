@@ -9,23 +9,29 @@ export default ({ data }) => {
   return (
     <Layout>
       <SEO title={post.frontmatter.title} />
-      <h1 
-        class='post-title'
-				data-aos='fade-up'
-        data-aos-easing='ease-out-quad'
-        data-aos-duration='800'>{post.frontmatter.title}</h1>
-      <div 
-				class='post-date'
-        data-aos='fade-up'
-        data-aos-easing='ease-out-quad'
-        data-aos-duration='800'>Published {post.frontmatter.date}</div>
+      <h1
+        class="post-title"
+        data-aos="fade-up"
+        data-aos-easing="ease-out-quad"
+        data-aos-duration="800"
+      >
+        {post.frontmatter.title}
+      </h1>
       <div
-        class='post-contents' 
-        data-aos='fade-up'
-        data-aos-easing='ease-out-quad'
-        data-aos-duration='500'
-        data-aos-delay='300'
-        dangerouslySetInnerHTML={{ __html: post.html }} 
+        class="post-date"
+        data-aos="fade-up"
+        data-aos-easing="ease-out-quad"
+        data-aos-duration="800"
+      >
+        Published {post.frontmatter.date}
+      </div>
+      <div
+        class="post-contents"
+        data-aos="fade-up"
+        data-aos-easing="ease-out-quad"
+        data-aos-duration="500"
+        data-aos-delay="300"
+        dangerouslySetInnerHTML={{ __html: post.html }}
       />
     </Layout>
   )
