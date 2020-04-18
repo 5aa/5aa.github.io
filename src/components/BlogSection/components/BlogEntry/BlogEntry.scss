@@ -4,21 +4,21 @@
   padding-top: 2.6rem;
 
   a {
+    color: $colorTextHeader;
+    font-family: $fontStack1;
     font-size: 1.8rem;
     font-weight: 700;
-    font-family: $fontStack1;
-    color: $colorTextHeader;
     &:hover {
       color: $colorLink;
     }
   }
 
   .date {
+    color: $colorDate;
+    font-family: $fontStack2;
     font-size: 0.8rem;
     font-weight: 700;
-    font-family: $fontStack2;
     padding-top: 0.5rem;
-    color: $colorDate;
     text-transform: uppercase;
   }
 }
