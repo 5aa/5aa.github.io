@@ -4,6 +4,7 @@ module.exports = {
     description: `Personal Website`,
     author: `5aa`,
     site_url: `5aa.dev`,
+    pathPrefix: `/static-site`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

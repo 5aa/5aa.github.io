@@ -4,7 +4,6 @@
   "description": "5aa website",
   "version": "0.1.0",
   "author": "5aa",
-  "homepage": "https://5aa.github.io/static-site",
   "dependencies": {
     "aos": "^2.3.4",
     "core-js": "^3",
