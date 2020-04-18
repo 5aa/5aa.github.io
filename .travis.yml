@@ -1,0 +1,16 @@
+language: node_js
+before_script:
+  - npm install gatsby
+node_js:
+  - "stable"
+cache:
+	directories:
+		- node_modules
+deploy:
+  provider: pages
+	script: npm install && npm run deploy
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  on:
+    branch: master
