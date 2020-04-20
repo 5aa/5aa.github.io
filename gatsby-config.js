@@ -3,7 +3,7 @@ module.exports = {
     title: `5aa`,
     description: `Personal Website`,
     author: `5aa`,
-    site_url: `5aa.dev`,
+    site_url: `5aa.github.io`,
   },
   pathPrefix: `/static-site`,
   plugins: [
