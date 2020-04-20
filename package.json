@@ -4,6 +4,7 @@
   "description": "5aa website",
   "version": "0.1.0",
   "author": "5aa",
+  "homepage": "https://5aa.github.io",
   "dependencies": {
     "aos": "^2.3.4",
     "core-js": "^3",
@@ -36,7 +37,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -b master -r https://$GITHUB_TOKEN@github.com/5aa/static-site.git",
+    "deploy": "gatsby build && gh-pages -d public -b master -r https://$GITHUB_TOKEN@github.com/5aa/static-site.git",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
